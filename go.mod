@@ -5,7 +5,7 @@ go 1.17
 require (
 	code.cloudfoundry.org/bytefmt v0.0.0-20230406175530-3579ae0680eb
 	github.com/logrusorgru/aurora v2.0.3+incompatible
-	github.com/mattn/go-isatty v0.0.18
+	github.com/mattn/go-isatty v0.0.19
 	github.com/mtibben/androiddnsfix v0.0.0-20200907095054-ff0280446354
 	github.com/pborman/getopt v1.1.0
 	github.com/pkg/errors v0.9.1
